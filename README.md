@@ -15,10 +15,10 @@ To get started, follow these steps:
 1. Clone this repository to your local machine.
 
 ```bash
-git clone https://github.com/haroonsaifi17/LostPetGuardian.git && cd LostPetGuardian
+git clone https://github.com/haroonsaifi17/Tcc.git && cd Tcc
 ```
 
-2. Install project dependencies using npm
+2. tInstall project dependencies using npm
 
 ```bash
 npm install && npm run install
